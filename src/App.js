@@ -1,8 +1,4 @@
-import React from 'react'
-import './App.css';
-import User from './User'
-function App() {
-  function getName(name)
+
   {
     alert(name)
   }
